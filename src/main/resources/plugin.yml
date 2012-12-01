@@ -1,0 +1,10 @@
+name: ModwizSpawn
+main: com.modwiz.modwizspawn.ModwizSpawn
+version: 1.0-SNAPSHOT
+commands:
+  setspawn:
+    description: Sets the spawn for normal players when they use /spawn
+    usage: /setspawn
+  spawn:
+    description: Teleports a player to spawn
+    usage: /spawn
